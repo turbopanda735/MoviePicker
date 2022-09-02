@@ -1,0 +1,17 @@
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\MoviePicker.csproj.AssemblyReference.cache
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\MoviePicker.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\MoviePicker.AssemblyInfoInputs.cache
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\MoviePicker.AssemblyInfo.cs
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\MoviePicker.csproj.CoreCompileInputs.cache
+E:\repos\classes exercises\MoviePicker\MoviePicker\bin\Debug\net6.0\MoviePicker.exe
+E:\repos\classes exercises\MoviePicker\MoviePicker\bin\Debug\net6.0\MoviePicker.deps.json
+E:\repos\classes exercises\MoviePicker\MoviePicker\bin\Debug\net6.0\MoviePicker.runtimeconfig.json
+E:\repos\classes exercises\MoviePicker\MoviePicker\bin\Debug\net6.0\MoviePicker.dll
+E:\repos\classes exercises\MoviePicker\MoviePicker\bin\Debug\net6.0\MoviePicker.pdb
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\MoviePicker.dll
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\refint\MoviePicker.dll
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\MoviePicker.pdb
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\MoviePicker.genruntimeconfig.cache
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\ref\MoviePicker.dll
+E:\repos\classes exercises\MoviePicker\MoviePicker\obj\Debug\net6.0\MoviePicker.csproj.CopyComplete
+E:\repos\classes exercises\MoviePicker\MoviePicker\bin\Debug\net6.0\CsvHelper.dll
